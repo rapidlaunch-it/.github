@@ -1,6 +1,5 @@
-<div style="background: #0A0324;">
-  <img width="2104" media="(prefers-color-scheme: dark)" alt="logo-dark" src="https://github.com/rapidlaunch-it/.github/assets/753439/cc75300e-de37-48f2-b444-f347c2d02da4">
-</p>
+
+![github](https://github.com/rapidlaunch-it/.github/assets/753439/0d58dae1-841d-4a28-87bd-a550c406f335)
 
 # Launch Your Dream Project Rapidly
 ### From Idea to Reality in Minutes

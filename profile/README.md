@@ -13,7 +13,7 @@ Why wait weeks when you can validate your project within minutes? Welcome to Rap
 
 [Visit our website](https://rapidlaunch.it)
 or
-[🚀 Join Pre-Launch now](https://rapidlaunch.it/checkout?price_id=price_1O1pSIKiDEDPzMfO9U1uJElj&coupon_id=EARLYBIRD)
+[🚀 Join the Pre-Launch now](https://rapidlaunch.it/checkout?price_id=price_1O1pSIKiDEDPzMfO9U1uJElj&coupon_id=EARLYBIRD)
 
 
 with ❤️ by [@boudydegeer](https://twitter.com/boudydegeer)

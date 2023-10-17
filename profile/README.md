@@ -1,5 +1,5 @@
 
-![github](https://github.com/rapidlaunch-it/.github/assets/753439/0d58dae1-841d-4a28-87bd-a550c406f335)
+![](https://cdn.rapidlaunch.it/images/github.png)
 
 # Launch Your Dream Project Rapidly
 ### From Idea to Reality in Minutes
